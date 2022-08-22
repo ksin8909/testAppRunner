@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Test AWS App Runner with Node.js 3
+          Test AWS App Runner with Node.js 4
         </p>
         <a
           className="App-link"
